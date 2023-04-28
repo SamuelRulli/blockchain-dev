@@ -1,7 +1,5 @@
 # POC Blockchain Project in Java
 
-# Blockchain Test Project in Java
-
 This project is a simple implementation of a blockchain in Java for testing and learning purposes. It aims to help understand the basic concepts of how a blockchain works and how you can create and interact with one.
 
 ## Requirements
